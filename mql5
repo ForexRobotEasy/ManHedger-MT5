@@ -1,0 +1,27 @@
+
+// ManHedger MT5
+// Developer: Forex Robot Easy Team
+// Developer's site: forexroboteasy.com
+
+// Graphical User Interface
+// Implement GUI for ManHedger MT5
+
+// Zone Recovery Strategy
+// Implement Zone Recovery strategy
+
+// Grid Trading Strategies
+// Implement grid trading strategies
+
+// Trade Functions
+// Implement necessary trade functions for manual grid and hedge trading
+
+// Performance and Stability
+// Optimize code for performance and stability
+
+// Main program
+int start()
+{
+    // TODO: Implement code logic here
+    
+    return 0;
+}
